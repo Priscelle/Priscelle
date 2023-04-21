@@ -28,7 +28,7 @@ Here are some ideas to get you started:-->
  
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white%22%3E
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
 
 
 ### 📈GitHub Stats
