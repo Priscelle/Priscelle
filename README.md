@@ -35,10 +35,10 @@ Here are some ideas to get you started:-->
 
 <p align="center">
   <a href="https://github.com/Priscelle/%22%3E
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscelle&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Melisha14 :: Top Langs" /></a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscelle&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Priscelle :: Top Langs" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Melisha14/%22%3E
+  <a href="https://github.com/Priscelle/%22%3E
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Priscelle&show_icons=true&theme=white&hide_border=true%22/%3E<br>
 </p>
 <p align="center">
