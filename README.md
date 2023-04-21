@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 ### 💻 Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,php)](https://skillicons.dev)
 
 
 ### 🧰 Frameworks and Libraries 👋
@@ -34,7 +34,7 @@ Here are some ideas to get you started:-->
 ### 📈GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Melisha14/%22%3E
+  <a href="https://github.com/Priscelle/%22%3E
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscelle&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Melisha14 :: Top Langs" /></a>
 </p>
 <p align="center">
